@@ -38,8 +38,11 @@ export default function Home() {
             alt="Debut Language School Logo"
             className="w-48 h-48 mb-6"
           />
+          <h1 className="text-[#11609C] text-4xl font-bold text-center mb-2">
+            Great Things!
+          </h1>
           <h1 className="text-[#11609C] text-4xl font-bold text-center mb-6">
-            Great Things Coming Soon
+            Coming Soon
           </h1>
           
           <div className="flex justify-center gap-4 mb-10 w-full">
@@ -64,15 +67,15 @@ export default function Home() {
         
         <div className="mb-8">
           <h2 className="text-[#11609C] text-2xl font-bold text-center mb-2">
-            초1~중3, 같이 완성 데뷰 영어학원
+            같이 완성 데뷰 영어
           </h2>
           <p className="text-[#7fa6c3] text-center mb-4">
-            현재 신목초, 목동초, 목일중, 목동중을 중심으로 운영 되고 있습니다.
+            초1 ~ 중3까지 가장 완성도 높은 영어
           </p>
           
           <div className="bg-[#f8f9fa] p-5 rounded-lg">
             <h3 className="text-[#11609C] text-xl font-bold text-center mb-3">
-              '우리 아이의 영어 학습 현황은 어떤가요?'
+              '학생의 영어 학습 현황은 어떤가요?'
             </h3>
             <p className="text-[#7fa6c3] text-center mb-4">
               같이 완성이라는 한 목표를 위해, 다양한 학습 고충을 해결하려 합니다.
