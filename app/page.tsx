@@ -54,19 +54,19 @@ export default function Home() {
           <h3 className="text-center text-[#11609C] text-xl font-bold mb-6">3중 관리 시스템</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="flex flex-col items-center p-4 bg-gray-50 rounded-lg">
-              <div className="w-12 h-12 bg-[#11609C] rounded-full flex items-center justify-center text-white font-bold mb-3">AI</div>
-              <h4 className="font-bold text-gray-800 mb-1">온라인 AI</h4>
-              <p className="text-gray-600 text-sm text-center">맞춤형 학습 진단</p>
-            </div>
-            <div className="flex flex-col items-center p-4 bg-gray-50 rounded-lg">
               <div className="w-12 h-12 bg-[#11609C] rounded-full flex items-center justify-center text-white font-bold mb-3">강사</div>
               <h4 className="font-bold text-gray-800 mb-1">담임 강사</h4>
-              <p className="text-gray-600 text-sm text-center">맞춤형 교육 지도</p>
+              <p className="text-gray-600 text-sm text-center">세심한 교육 지도</p>
+            </div>
+            <div className="flex flex-col items-center p-4 bg-gray-50 rounded-lg">
+              <div className="w-12 h-12 bg-[#11609C] rounded-full flex items-center justify-center text-white font-bold mb-3">AI</div>
+              <h4 className="font-bold text-gray-800 mb-1">온라인 AI</h4>
+              <p className="text-gray-600 text-sm text-center">가장 정확한 학습진단</p>
             </div>
             <div className="flex flex-col items-center p-4 bg-gray-50 rounded-lg">
               <div className="w-12 h-12 bg-[#11609C] rounded-full flex items-center justify-center text-white font-bold mb-3">매니저</div>
               <h4 className="font-bold text-gray-800 mb-1">스터디 매니저</h4>
-              <p className="text-gray-600 text-sm text-center">학습 성과 관리</p>
+              <p className="text-gray-600 text-sm text-center">완성 학습 관리</p>
             </div>
           </div>
         </div>
